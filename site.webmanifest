@@ -1,0 +1,15 @@
+{
+  "name": "Gratuity",
+  "short_name": "Gratuity",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#edf1ee",
+  "theme_color": "#1ca9b6",
+  "icons": [
+    {
+      "src": "assets/images/apple-touch-icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ]
+}
