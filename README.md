@@ -6,7 +6,7 @@ Static marketing site for GitHub Pages.
 
 - `index.html`: landing page and in-page privacy policy modal
 - `assets/css/styles.css`: all styling
-- `assets/site.js`: modal behavior
+- `assets/site.js`: modal behavior and GA4 click tracking for the App Store CTA
 
 ## Deploy
 
